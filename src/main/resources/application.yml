@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.163.com
+    username: drebander@163.com
+    password: bytx2011
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
